@@ -55,9 +55,8 @@ Payment methods (PayType) - you can specify an unlimited number
 System requirements: Windows 10/11, Python 3.x.x
 
 ## Buy a subscription to OKX P2P Bot
-https://py-dev.top/en/application-software/okx-p2p-bot
+https://github.com/pydevtop/p2p-trade-bot-okx
 
 ## Contacts
 Telegram:  @morgan_sql<br>
-Telegram channel:  https://t.me/pydevtop
 
