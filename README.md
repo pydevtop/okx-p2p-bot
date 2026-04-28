@@ -27,7 +27,7 @@ P2P Trade Bot OKX https://github.com/pydevtop/p2p-trade-bot-okx
 Instructions for installing and configuring the OKX P2P bot
 To manage the OKX P2P bot software, you need to create and connect a telegram bot
 #### 1. Registering a new Telegram bot
-Detailed instructions for registering a new telegram bot: https://py-dev.top/en/registering-telegram-bot
+Detailed instructions for registering a new telegram bot: https://py-dev.top/registering-telegram-bot
 
 The resulting API key for your telegram bot will need to be copied and added to the config.py configuration file located in the bot folder
 
@@ -35,7 +35,7 @@ Example: BOT_TOKEN = '5017012087:AAGXATlZLS3l25SxVbXIxXVcOPNqkT1Q5ig' # token Bo
 
 
 #### 2. Install Python
-Detailed instructions on how to install Python on Windows: https://py-dev.top/en/installing-python
+Detailed instructions on how to install Python on Windows: https://py-dev.top/installing-python
 
 Go to the settings of the bot itself
 
