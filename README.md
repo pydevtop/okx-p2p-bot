@@ -7,7 +7,7 @@ The bot helps P2P traders monitor buy and sell orders, receive instant order not
 Instead of constantly switching between the OKX website, P2P orders, order chat, and Telegram, traders can manage the most important parts of their **OKX P2P workflow from a single Telegram bot**.
 
 <p align="center">
-  <img width="700" src="https://py-dev.top/components/com_jshopping/files/img_products/automated_purchase_of_p2p_orders_on_okx.jpg" alt="OKX P2P Bot - P2P Trading Automation and Telegram Order Management">
+  <img width="700" src="https://py-dev.top/components/com_jshopping/files/img_products/full_okx_bot_trade_p2p.png" alt="OKX P2P Bot - P2P Trading Automation and Telegram Order Management">
 </p>
 
 ## OKX P2P Bot Demo
